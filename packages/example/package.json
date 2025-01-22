@@ -19,6 +19,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "serve": "next start",
     "typecheck": "pnpm tsc --noEmit"
   },
   "keywords": [],
